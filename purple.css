@@ -1,0 +1,20 @@
+.hidden {
+  display: none;
+}
+.columns {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+/* background color */
+body{
+  background-color: 	#f0e5fb;
+}
+/* card color and grid spacing */
+.card {
+  background-color:	#dfcff2;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.hero {
+    background-image: linear-gradient(#f0e5fb, #d7b3ff  );
+}
